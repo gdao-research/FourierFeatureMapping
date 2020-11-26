@@ -8,4 +8,4 @@ The PSNR curve over optimization steps(x25):
 
 The output images of each method:
 
-<img src="./images/output.png" width=500px></img>
+<img src="./images/output.png" width=800px></img>
